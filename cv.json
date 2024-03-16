@@ -1,66 +1,56 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
+    "name": "Samuel Emmanuel Trias Santamaria",
+    "label": "Full Stack Developer con más de 4 años de experiencia desarrollando software para humanos",
+    "image": "https://media.licdn.com/dms/image/D4E03AQGwp7Zd1Y01fA/profile-displayphoto-shrink_200_200/0/1673743523765?e=1715817600&v=beta&t=SLiM4sxHEnRFJW0VaKyb0RhEcrgDo-FEq5qPMqq4G8U",
+    "email": "smltrs0@gmail.com",
     "phone": "+34 688888888",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Como desarrollador con 4 años de experiencia, me especializo en Vue JS, JavaScript Front-End y Docker. Estoy preparado para aportar mis habilidades técnicas, mi destreza en la gestión de proyectos y mi creatividad a un equipo de trabajo. Busco una oportunidad para aplicar mis conocimientos y experiencia en diversos sectores, incluyendo el ámbito gubernamental, startups en etapa inicial o intermedia, fábricas de software, HR Tech, FashionTech, eSports, E-commerce, FoodTech, SupplyTech, Consumo Masivo, Servicios de entrega y Movile.",
     "location": {
       "address": "",
       "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "city": "Bogota DC",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "samuel-trias",
+        "url": "https://linkedin.com/in/samuel-trias"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "SamuelTrias_",
+        "url": "https://x.com/SamuelTrias_"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "smltrs0",
+        "url": "https://github.com/smltrs0"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Suplos, una marca Intelcost",
+      "position": "Lider técnico área CX",
+      "url": "https://twitch.tv/samueltdev",
+      "startDate": "2022-10-04",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Liderar y promover las habilidades del equipo técnico de experiencia al cliente mediante un apoyo experto en las incidencias que requieran intervención de aplicativos de seguridad en la información y análisis de la situación de alta complejidad. Asistir casos de mayor complejidad mediante seguimiento en tiempos de respuesta y entregar una solución rápida y efectiva al usuario.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
+      "name": "Suplos, una marca Intelcost",
+      "position": "Ingeniero de soporte y desarrollo",
+      "url": "https://twitch.tv/samueltdev",
+      "startDate": "2020-10-05",
       "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "summary": "Brindar soluciones a la plataforma en términos de requerimientos, actualización y mantenimiento, desarrollar funcionalidades, dar soporte y capacitarse de nuevas tecnologías.",
       "highlights": [
         "Started the company"
       ]
@@ -78,12 +68,23 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "UPTEB",
+    "url": "https://uptbolivar.edu.ve",
+    "area": "TSU Informática",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2014",
+    "endDate": "2018",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },{
+    "institution": "UPTEB",
+    "url": "https://uptbolivar.edu.ve",
+    "area": "TSU Ingeniería en Informática",
+    "studyType": "Bachelor",
+    "startDate": "2018",
+    "endDate": "2022",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -185,6 +186,20 @@
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
+    },
+    {
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Eloquent"
+      ]
+    },
+    {
+      "name": "VueJs",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Eloquent"
+      ]
     }
   ],
   "languages": [
@@ -209,48 +224,6 @@
     "reference": "Reference…"
   }],
   "projects": [
-    {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
-      "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
     {
       "name": "Pruebas Técnicas",
       "isActive": true,
