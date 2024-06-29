@@ -6,7 +6,7 @@
     "email": "smltrs0@gmail.com",
     "phone": "+34 688888888",
     "url": "https://midu.dev",
-    "summary": "Como desarrollador con 4 años de experiencia, me especializo en Vue JS, JavaScript Front-End y Docker. Estoy preparado para aportar mis habilidades técnicas, mi destreza en la gestión de proyectos y mi creatividad a un equipo de trabajo. Busco una oportunidad para aplicar mis conocimientos y experiencia en diversos sectores, incluyendo el ámbito gubernamental, startups en etapa inicial o intermedia, fábricas de software, HR Tech, FashionTech, eSports, E-commerce, FoodTech, SupplyTech, Consumo Masivo, Servicios de entrega y Movile.",
+    "summary": "Como desarrollador con 4 años de experiencia, me especializo en Vue JS, JavaScript Front-End y PHP. Estoy preparado para aportar mis habilidades técnicas, mi destreza en la gestión de proyectos y mi creatividad a un equipo de trabajo. Busco una oportunidad para aplicar mis conocimientos y experiencia en diversos sectores, incluyendo el ámbito gubernamental, startups en etapa inicial o intermedia, fábricas de software, HR Tech, FashionTech, eSports, E-commerce, FoodTech, SupplyTech, Consumo Masivo, Servicios de entrega y Movile.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -35,8 +35,8 @@
   "work": [
     {
       "name": "Suplos, una marca Intelcost",
-      "position": "Lider técnico área CX",
-      "url": "https://twitch.tv/samueltdev",
+      "position": "Líder Técnico | Especialista en Soporte y Desarrollo de Software",
+      "url": "https://suplos.com/",
       "startDate": "2022-10-04",
       "endDate": null,
       "summary": "Liderar y promover las habilidades del equipo técnico de experiencia al cliente mediante un apoyo experto en las incidencias que requieran intervención de aplicativos de seguridad en la información y análisis de la situación de alta complejidad. Asistir casos de mayor complejidad mediante seguimiento en tiempos de respuesta y entregar una solución rápida y efectiva al usuario.",
@@ -47,7 +47,7 @@
     {
       "name": "Suplos, una marca Intelcost",
       "position": "Ingeniero de soporte y desarrollo",
-      "url": "https://twitch.tv/samueltdev",
+      "url": "https://suplos.com/",
       "startDate": "2020-10-05",
       "endDate": "2022-09-01",
       "summary": "Brindar soluciones a la plataforma en términos de requerimientos, actualización y mantenimiento, desarrollar funcionalidades, dar soporte y capacitarse de nuevas tecnologías.",
@@ -209,7 +209,8 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "B1 Intermediate",
+      "verification_url": "https://platzi.com/ruta-compartida/english/g1714596895-6e6ed8e6-d5db-4168-ba38-bb29c55d90bb/"
     }
   ],
   "interests": [{
@@ -225,24 +226,31 @@
   }],
   "projects": [
     {
-      "name": "Pruebas Técnicas",
+      "name": "Esqueleto app con token JWT usando clean code",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Esqueleto de aplicación con autenticación JWT, estructura limpia y clara, con TypeScript",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "https://github.com/smltrs0/Node-auth-JWT-cleancode-typescript",
+      "github": "https://github.com/smltrs0/Node-auth-JWT-cleancode-typescript"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "name": "Alphalibros",
+      "description": "Aplicación web para la gestión de una librería",
       "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
+        
       ],
-      "url": "https://miduconf.com"
+      "url": "https://github.com/smltrs0/Alfalibros",
+      "github": "https://github.com/smltrs0/Alfalibros"
+    },
+    {
+      "name": "Odontosistem",
+      "description": "Sistema de gestión de clínicas odontológicas",
+      "highlights": [
+        
+      ],
+      "url": "https://github.com/smltrs0/Odonto-system",
+      "github": "https://github.com/smltrs0/Odonto-system"
     }
   ]
 }
